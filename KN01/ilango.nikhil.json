@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "665477ad7945cb6ccd121558"
+  },
+  "name": "Nikhil Ilango",
+  "age": 17,
+  "birthday": {
+    "$date": "2006-11-13T23:00:00.000Z"
+  }
+}]
